@@ -1,0 +1,15 @@
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\bin\Debug\netstandard2.0\MobileProject.deps.json
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\bin\Debug\netstandard2.0\MobileProject.dll
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\bin\Debug\netstandard2.0\MobileProject.pdb
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\MobileProject.csprojAssemblyReference.cache
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\MobileProject.csproj.CoreCompileInputs.cache
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\MobileProject.AssemblyInfoInputs.cache
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\MobileProject.AssemblyInfo.cs
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\MobileProject.dll
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\MobileProject.pdb
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\Exercise.xaml.g.cs
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\ProcessPage.xaml.g.cs
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject\obj\Debug\netstandard2.0\HomePage.xaml.g.cs

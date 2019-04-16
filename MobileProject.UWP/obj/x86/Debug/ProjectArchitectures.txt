@@ -1,0 +1,1 @@
+C:\Users\btool\source\repos\MobileProject\MobileProject\MobileProject.UWP\MobileProject.UWP.csproj;x86
